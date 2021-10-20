@@ -4,7 +4,6 @@
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/doughalves)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/doughalves)
 
-
 #### Sobre Mim:
 <div align="justify">Trabalhei por mais de 15 anos em áreas administrativas e operacionais em empresas do ramo financeiro, imobiliário e jurídico e nunca senti real satisfação profissional trabalhando nessas áreas pois sempre gostei muito de tecnologia, mas achava que já havia "perdido o timing" de ingressar na carreira tecnológica, somente após muita insistência de minha esposa e amigos decidi fazer alguns cursos de Desenvolvimento Web, e encontrei real satisfação e onde acredito que irei render muito profissionalmente e crescer ainda mais; busco colocação para continuar minha carreira, agora como Dev.</div>
 
@@ -23,15 +22,14 @@
 </div>
   </br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doughalves)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doughalves&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Meus projetos:
 <ul>
-  <li>Calculadora de Média</li>
-  <li>Conversor de Moeda</li>
-  <li>Conversor de Temperatura</li>
-  <li>Mentalista</li>
-  <li>AluraFlix</li>
-  <li>Tabela de Classificação</li>
-  <li>Super Trunfo: Pokemon</li>
-
+  <li><a href="https://doughalves.github.io/calculadora-media/">Calculadora de Média</a></li>
+  <li><a href="https://doughalves.github.io/conversor-moeda/">Conversor de Moeda</a></li>
+  <li><a href="https://doughalves.github.io/conversor-temperatura/">Conversor de Temperatura</a></li>
+  <li><a href="https://doughalves.github.io/mentalista/">Mentalista</a></li>
+  <li><a href="">AluraFlix</a></li>
+  <li><a href="https://doughalves.github.io/tabela-classificacao/">Tabela de Classificação</a></li>
+  <li><a href="https://doughalves.github.io/supertrunfo/">Super Trunfo: Pokemon</a></li>
