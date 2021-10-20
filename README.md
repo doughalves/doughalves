@@ -38,7 +38,7 @@
   
  <!-- Projetos que ainda serão postados:
 
-      Projetos HTML e CSS Basico e Tecnicas Avançadas da Udemy
+      Projetos HTML e CSS Basico e Tecnicas Avançadas - Udemy
         Página de Tributo
         Formulário
         Página de Agência
@@ -50,16 +50,17 @@
         Google Search (Clone)
         Home Instagram
 
-      Projetos Vue.js da Udemy
+      Projetos Vue.js - Udemy
         O Matador de Monstros
         Tarefas To-Do
         The Stock Trader
         Calculadora
 
-      Projetos node.js da Udemy
+      Projetos node.js - Udemy
         Primeira API
         API DevHouse
         API Task-list
 
-      Projetos do Bootcamp Impulso React Web Developer da Digital Innovation One
+      Projetos do Bootcamp Impulso React Web Developer - Digital Innovation One
+
 -->
