@@ -25,6 +25,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doughalves&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Meus projetos:
+<!-- Imesão Dev - Alura -->
 <ul>
   <li><a href="https://doughalves.github.io/calculadora-media/">Calculadora de Média</a></li>
   <li><a href="https://doughalves.github.io/conversor-moeda/">Conversor de Moeda</a></li>
@@ -33,3 +34,32 @@
   <li><a href="">AluraFlix</a></li>
   <li><a href="https://doughalves.github.io/tabela-classificacao/">Tabela de Classificação</a></li>
   <li><a href="https://doughalves.github.io/supertrunfo/">Super Trunfo: Pokemon</a></li>
+  
+  
+ <!-- Projetos que ainda serão postados:
+
+      Projetos HTML e CSS Basico e Tecnicas Avançadas da Udemy
+        Página de Tributo
+        Formulário
+        Página de Agência
+        Google
+        Página de Contato
+        Doceria
+        HDC - Host
+        Whatsapp Web (Clone)
+        Google Search (Clone)
+        Home Instagram
+
+      Projetos Vue.js da Udemy
+        O Matador de Monstros
+        Tarefas To-Do
+        The Stock Trader
+        Calculadora
+
+      Projetos node.js da Udemy
+        Primeira API
+        API DevHouse
+        API Task-list
+
+      Projetos do Bootcamp Impulso React Web Developer da Digital Innovation One
+-->
