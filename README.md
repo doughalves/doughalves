@@ -6,7 +6,7 @@
 
 
 #### Sobre Mim:
-Trabalhei por mais de 15 anos em áreas administrativas e operacionais em empresas do ramo financeiro, imobiliário e jurídico e nunca senti real satisfação profissional trabalhando nessas áreas pois sempre gostei muito de tecnologia, mas achava que já havia "perdido o timing" de ingressar na carreira tecnológica, somente após muita insistência de minha esposa e amigos decidi fazer alguns cursos de Desenvolvimento Web, e encontrei real satisfação e onde acredito que irei render muito profissionalmente e crescer ainda mais; busco colocação para continuar minha carreira, agora como Dev.</p>
+<div align="justify">Trabalhei por mais de 15 anos em áreas administrativas e operacionais em empresas do ramo financeiro, imobiliário e jurídico e nunca senti real satisfação profissional trabalhando nessas áreas pois sempre gostei muito de tecnologia, mas achava que já havia "perdido o timing" de ingressar na carreira tecnológica, somente após muita insistência de minha esposa e amigos decidi fazer alguns cursos de Desenvolvimento Web, e encontrei real satisfação e onde acredito que irei render muito profissionalmente e crescer ainda mais; busco colocação para continuar minha carreira, agora como Dev.</div>
 
 #### Minhas Skills
 <div style="display: inline_block">
