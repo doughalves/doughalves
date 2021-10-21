@@ -27,7 +27,8 @@
 ### Meus projetos:
 <!-- Imesão Dev - Alura -->
 <ul>
-  <li><a href="https://doughalves.github.io/calculadora-media/">Calculadora de Média</a></li>
+  <li><a href="https://doughalves.github.io/calculadora-simples/">Calculadora Simples</a></li>
+  <li><a href="https://doughalves.github.io/calculadora-media/">Calculadora de Média Escolar</a></li>
   <li><a href="https://doughalves.github.io/conversor-moeda/">Conversor de Moeda</a></li>
   <li><a href="https://doughalves.github.io/conversor-temperatura/">Conversor de Temperatura</a></li>
   <li><a href="https://doughalves.github.io/mentalista/">Mentalista</a></li>
