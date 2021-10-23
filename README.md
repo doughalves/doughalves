@@ -35,11 +35,12 @@
   <li><a href="https://doughalves.github.io/mentalista/">Mentalista</a></li>
   <li><a href="https://doughalves.github.io/tabela-classificacao/">Tabela de Classificação</a></li>
   <li><a href="https://doughalves.github.io/supertrunfo/">Super Trunfo: Pokemon</a></li>
-  <li><a href="">Clone NetFlix (Em construção)</a></li>
+  <li><a href="">Formulário de Cadastro e Login (Em construção)</a></li>
   <li><a href="">Clone Google Search (Em breve)</a></li>
+  <li><a href="">Clone Whatsapp Web (Em breve)</a></li>
   <li><a href="">Clone Instagram (Em breve)</a></li>
   <li><a href="">Clone Spotify (Em breve)</a></li>
-  <li><a href="">Clone Whatsapp Web (Em breve)</a></li>
+  <li><a href="">Clone NetFlix (Em breve)</a></li> 
   
  <!-- Projetos que ainda serão postados:
 
