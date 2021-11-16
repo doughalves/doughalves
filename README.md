@@ -45,7 +45,8 @@
   <li><a href="">Clone Instagram (Em breve)</a></li>
   <li><a href="">Clone Spotify (Em breve)</a></li>
   <li><a href="">Clone NetFlix (Em breve)</a></li> 
-  
+</ul>
+
 <br>
   
 <div>
