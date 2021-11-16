@@ -46,6 +46,10 @@
   <li><a href="">Clone Spotify (Em breve)</a></li>
   <li><a href="">Clone NetFlix (Em breve)</a></li> 
   
+<div>
+ <img aling="center" alt="capa" src=capa01.png />
+</div>
+  
  <!-- Projetos que ainda serão postados:
 
       Projetos HTML e CSS Basico e Tecnicas Avançadas - Udemy
