@@ -1,4 +1,4 @@
-<img aling="center" alt="capa" src=capa01.png>
+<img aling="center" alt="capa" src=capa01.png />
 ## Olá! Eu sou o Douglas Alves 👋
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/doughalves)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/doughalves)
