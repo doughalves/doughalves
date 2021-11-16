@@ -46,6 +46,8 @@
   <li><a href="">Clone Spotify (Em breve)</a></li>
   <li><a href="">Clone NetFlix (Em breve)</a></li> 
   
+<br>
+  
 <div>
  <img aling="center" alt="capa" src=capa01.png />
 </div>
