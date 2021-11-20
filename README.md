@@ -44,7 +44,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doughalves&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Meus projetos:
-<!-- Imesão Dev - Alura -->
 <ul>
   <li><a href="https://doughalves.github.io/calculadora-simples/">Calculadora Simples</a></li>
   <li><a href="https://doughalves.github.io/calculadora-media/">Calculadora de Média Escolar</a></li>
@@ -89,5 +88,6 @@
         API Task-list
 
       Projetos do Bootcamp Impulso React Web Developer - Digital Innovation One
-
+      - Javascript
+      - React
 -->
