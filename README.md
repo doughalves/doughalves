@@ -9,7 +9,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/doughalves)
 
 ### Sobre Mim:
-<div align="justify">Trabalhei por mais de 15 anos em áreas administrativas e operacionais em empresas do ramo financeiro, imobiliário e jurídico e nunca senti real satisfação profissional trabalhando nessas áreas pois sempre gostei muito de tecnologia, mas achava que já havia perdido o "timing" de ingressar na carreira tecnológica, somente após muita insistência de minha esposa e amigos decidi fazer alguns cursos de Desenvolvimento Web, e encontrei real satisfação e onde acredito que irei render muito profissionalmente e crescer ainda mais; busco colocação para continuar minha carreira, agora como Dev.</div>
+<div align="justify">Trabalhei por mais de 15 anos em áreas administrativas e operacionais em empresas do ramo financeiro, imobiliário e jurídico mas sempre quis trabalhar com tecnologia, com a pandemia e a quarentena, decidi fazer alguns cursos de Desenvolvimento Web, e encontrei real satisfação e onde acredito que irei render muito profissionalmente e crescer ainda mais; busco colocação para continuar minha carreira como Desenvolvedor Web.</div>
 
 ### Tecnologias que domino
 <div style="display: inline_block">
