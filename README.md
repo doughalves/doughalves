@@ -41,7 +41,7 @@
   <img aling="center" alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
 </div>
   </br>
-
+ <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doughalves&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Meus projetos:
@@ -67,7 +67,7 @@
  <img aling="center" alt="capa" src=capa01.png />
 </div>
   
- <!-- Projetos que ainda serão postados:
+ Projetos que ainda serão postados:
 
       Projetos HTML e CSS Basico e Tecnicas Avançadas - Udemy
         Página de Tributo
